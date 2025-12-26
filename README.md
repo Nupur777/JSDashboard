@@ -1,6 +1,6 @@
 # JSDashboard
 Responsive HTML,CSS, Javascript Dashboard
-This project is a responsive real-time dashboard built using JavaScript, HTML, CSS, and React.js. It allows users to monitor key metrics and visualize data in an interactive and dynamic interface. The dashboard is designed to be fully responsive, ensuring a seamless user experience across devices, from desktops to mobile devices.
+This project will be a responsive real-time dashboard built using JavaScript, HTML, CSS, and React.js. It allows users to monitor key metrics and visualize data in an interactive and dynamic interface. The dashboard is designed to be fully responsive, ensuring a seamless user experience across devices, from desktops to mobile devices.
 
 Features
 Real-Time Data Visualization: Displays key metrics such as sales, user engagement, and performance statistics.
